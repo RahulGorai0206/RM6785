@@ -9,7 +9,7 @@ By [Rahul Gorai](https://github.com/RahulGorai0206)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/RahulGorai0206/RM6785/total?label=Total%20Downloads&logo=android&logoColor=%2300FF7F&style=social)](https://github.com/RahulGorai0206/RM6785/releases)
 
-## Download Count By Release
+### Download Count By Release
 --------------------------------
 ![Github Releases (by Release)](https://img.shields.io/github/downloads/RahulGorai0206/RM6785/20220828/total.svg)
 ![Github Releases (by Release)](https://img.shields.io/github/downloads/RahulGorai0206/RM6785/20220827/total.svg)
